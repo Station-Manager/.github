@@ -16,3 +16,8 @@ and Station Master (all configurable), but this is not a requirement for the sof
 
 The software is not aimed at contests (although it does support contesting), rather at general HF operation by phone
 and CW.
+
+## Computer Aided Transceiver (CAT)
+
+The software does support CAT operation; however, only Yaesu FTdx10 and F7-100 have been tested (I don't own any other
+rigs).
