@@ -1,6 +1,6 @@
 # Station Manager
 
-**Station Manager* is a suite of modern Linux desktop applications for Amateur Radio station management. They are built using
+**Station Manager** is a suite of modern Linux desktop applications for Amateur Radio station management. They are built using
 Go, SvelteKit with the Wails framework binding it all together.
 
 Why yet another piece of software for amateur radio logging, etc.? Well, what is out there just didn't allow me to
